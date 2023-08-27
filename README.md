@@ -1,19 +1,17 @@
-
- I’m interested in ...
--  I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
--  How to reach me ...
-
 ![Imagem](https://github.com/PToledoCESJF/ptoledocesjf/blob/main/assets/Capa.png)
 ##
 
-## 👋 Olá, eu sou @paulo-toledo
-### 🌱 Bacharel em Sistemas de Informação formado pelo [Centro Universitário Academia - UniAcademia](https://www.uniacademia.edu.br). 
-### 🌱 Estou cursando pós-graduação em Desenvolvimento Web Full Stack pela [PUC - Minas](https://www.pucminas.br/PucVirtual/Paginas/default.aspx). 
+## 👋 Olá, eu sou Paulo Toledo @paulo-toledo
 
 ##
 
-### 👀 Interesses:
+#### 🌱 Bacharel em Sistemas de Informação formado pelo [Centro Universitário Academia - UniAcademia](https://www.uniacademia.edu.br). 
+#### 🌱 Estou cursando pós-graduação em Desenvolvimento Web Full Stack pela [PUC - Minas](https://www.pucminas.br/PucVirtual/Paginas/default.aspx). 
+
+##
+
+#### 👀 Interesses:
+
 Apaixonado por tecnologia e desenvolvimento de software e sempre disposto a aprender algo novo. 
 Dentre as linguagens, bibliotecas e frameworks aos quais possuo algum conhecimento quero destacar as seguintes:
 <div style="display: inline_block"><br>
@@ -30,7 +28,7 @@ Dentre as linguagens, bibliotecas e frameworks aos quais possuo algum conhecimen
 
 ##
 
-### 📫 Contatos
+#### 📫 Contatos
 
 <div> 
   <a href="https://www.linkedin.com/in/paulo-toledo-0488b1174/" target="_blank">
