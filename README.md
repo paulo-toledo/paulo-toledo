@@ -1,8 +1,7 @@
 ![Imagem](https://github.com/PToledoCESJF/ptoledocesjf/blob/main/assets/Capa.png)
 ##
 
-## 👋 Olá, eu sou Paulo Toledo @paulo-toledo
-
+## 👋 Olá, eu sou Paulo Toledo - @paulo-toledo
 
 #### 🌱 Bacharel em Sistemas de Informação formado pelo [Centro Universitário Academia - UniAcademia](https://www.uniacademia.edu.br). 
 #### 🌱 Estou cursando pós-graduação em Desenvolvimento Web Full Stack pela [PUC - Minas](https://www.pucminas.br/PucVirtual/Paginas/default.aspx). 
